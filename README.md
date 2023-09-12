@@ -64,7 +64,7 @@ API 코드 속에서 토큰 정보를 불러오고, 토큰 값에서 사용자�
 카테고리 테이블, 상품, 주문, 사용자 아동 연령 테이블을 JOIN 하여, 구매가 많은 제품의 순서대로 출력될 수 있도록 하였습니다. 여러 개의 테이블을 조인하기 위해 관련 글을 참고하는 과정을 통하여, SQL 쿼리 작성에 대한 실력을 증진시킬 수 있었습니다. 
 
 <br><br>
-<p align="center"><b>2. 학생 성적 관리 프로그램(개인 프로젝트)</b></p>
+<p align="left"><b>2. 학생 성적 관리 프로그램(개인 프로젝트)</b></p>
 
 <p align="center">사용언어 :	JAVA, JQUERY, JSP, JAVASCRIPT, SQL, HTML, CSS
 <p align="center">개발환경 :	SPRING BOOT4, MYSQL
