@@ -84,7 +84,7 @@ SPRING BOOT 4 프레임워크,  MVC(Model-View-Controller) 모델을 기반으�
 
 변경된 값은 form 태그에 값을 새로 저장하고 UPDATE 구문을 통하여 반영될 수 있도록 하였습니다. <br>
 이미지의 경우 Thumbnailator, input/outputStream 기능을 사용하여 화면에 출력될 수 있도록 하였습니다. 
-
+<br><br>
 
 <p align="left"><b>3. 도서 쇼핑몰 프로그램(개인 프로젝트)</b></p>
 
