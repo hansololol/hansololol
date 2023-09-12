@@ -92,7 +92,7 @@ SPRING BOOT 4 프레임워크,  MVC(Model-View-Controller) 모델을 기반으�
 <p align="left">개발환경 : SPRING BOOT3, MYSQL
 <p align="left">수행기간	: 2023. 7
 
-<p align="left"><img src="https://github.com/hansololol/hansololol/assets/142460146/ec84ce5c-4174-4999-a339-79b49b78ac88">
+<p align="center"><img src="https://github.com/hansololol/hansololol/assets/142460146/ec84ce5c-4174-4999-a339-79b49b78ac88">
 
 SPRING BOOT 3 프레임워크, MVC(Model-View-Controller) 모델을 기반으로 프로그램을 제작하였습니다.<br>
 사용자, 관리자로 나누어 구성하였으며, 사용자는 도서 구매가, 관리자는 DB에 도서 정보를 등록하고 출력할 수 있도록 CRUD를 제작하였습니다. <br>
