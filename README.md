@@ -68,7 +68,7 @@ API 코드 속에서 토큰 정보를 불러오고, 토큰 값에서 사용자�
 
 <br><br>
 <p align="left"><b>2. 학생 성적 관리 프로그램(개인 프로젝트)</b></p>
-
+<p align="left">깃허브 주소 : https://github.com/hansololol/student.git</p>
 <p align="center">사용언어 :	JAVA, JQUERY, JSP, JAVASCRIPT, SQL, HTML, CSS
 <p align="center">개발환경 :	SPRING BOOT4, MYSQL
 <p align="center">수행기간 :	2023. 7
