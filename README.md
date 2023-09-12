@@ -1,4 +1,4 @@
-<p align="right"><img src="https://capsule-render.vercel.app/api?type=Slice&color=auto&height=100&section=header&text=성장하는%20개발자&fontSize=30&fontAlign=80" />
+<p align="right"><img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&descAlign=70.&descAlignY=44">
 
 # <p align="center">성장하는 개발자 김한솔입니다</p>
 <p align="center">
